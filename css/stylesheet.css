@@ -1,3 +1,33 @@
+.nav-link {
+	color: black;
+	/*background-color: white;*/
+}
+
+.navbar-brand {
+	color: black;
+}
+
+/*#header-image {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}*/
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 .navbar {
+	/*background-color: white*/
+}
+
+.jumbotron {
 	background-color: white;
 }
+
+/*.d-block {
+	max-width: 500px;
+}*/
