@@ -1,3 +1,7 @@
+.navbar {
+	background-color: rgba(255,255,255,0.5);;
+}
+
 .nav-link {
 	color: black;
 	font-family: 'Monda', Sans-Serif;
@@ -11,12 +15,9 @@
 	font-size: 16px;
 }
 
-/*#header-image {
-	padding-top: 50px;
-	padding-bottom: 50px;
-}*/
 
 .bg-image-full {
+	height: 250px;
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -37,9 +38,12 @@ h1 {
 	font-size: 45px;
 }
 
+.text-center {
+	margin: auto;
+	position: relative;
+	top: 40%; left: 0; bottom: 0; right: 0;
+}
 
-
-/*Font-Family: 'Julius Sans One', Sans-Serif;
-Font-Size: 45px;
-Font-Family: 'Monda', Sans-Serif;
-Font-Size: 16px;*/
+.spotlight {
+	border-radius: 50%;
+}
